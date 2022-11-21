@@ -2,3 +2,4 @@ Name: 'OPC-UA'
 Type: FolderType
 Children:
 - File: OPCUAClient2/OPCUAClient2.yaml
+- File: OPCUAClient1/OPCUAClient1.yaml
